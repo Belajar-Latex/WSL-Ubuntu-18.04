@@ -1,13 +1,32 @@
-# WSL-Ubuntu-18.04
-<img src="pictures/aen.jpg" width="150">
+<h1>Install WSL Ubuntu 18.04</h1>
 
-# Himpunan Petunjuk Latex
+<img src="pictures/aen.jpg"    width="150">
 
-Terimakasih telah singgah di kelompok [Belajar LaTeX](https://github.com/Belajar-Latex/) ini.
+<img src="pictures/U1804-01.png"  width="800">
 
-## Informasi Tambahan
+<img src="pictures/U1804-02.png"  width="800">
 
-* [Windows Subsystem for LaTeX eh Linux](https://en.wikipedia.org/wiki/Windows_Subsystem_for_Linux)
+<img src="pictures/U1804-03.png"  width="800">
+
+<img src="pictures/U1804-04.png"  width="800">
+
+<img src="pictures/U1804-05.png"  width="800">
+
+<img src="pictures/U1804-06.png"  width="800">
+
+<img src="pictures/U1804-07.png"  width="800">
+
+<img src="pictures/U1804-08.png"  width="800">
+
+<img src="pictures/U1804-09.png"  width="800">
+
+<img src="pictures/U1804-10.png"  width="800">
+
+<img src="pictures/U1804-11.png"  width="800">
+
+<img src="pictures/U1804-12.png"  width="800">
+
+<img src="pictures/U1804-13.png"  width="800">
 
 
 ## DISKLAIMER
